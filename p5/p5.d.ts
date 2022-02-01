@@ -1,4 +1,5 @@
 // This file was auto-generated. Please do not edit it.
+//Source: https://stackoverflow.com/a/60693021
 
 declare class p5 {
   // Properties from p5

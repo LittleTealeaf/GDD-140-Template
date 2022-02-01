@@ -1,4 +1,5 @@
 // This file was auto-generated. Please do not edit it.
+//Source https://stackoverflow.com/a/60693021
 
 ///<reference path="p5.d.ts" />
 
