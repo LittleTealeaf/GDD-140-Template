@@ -1,4 +1,4 @@
-/// <reference path="./p5/p5.d.ts" />
+/// <reference path="./resources/p5.d.ts" />
 
 "use strict";
 
