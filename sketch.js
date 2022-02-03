@@ -1,4 +1,4 @@
-/// <reference path="./resources/p5.d.ts" />
+/// <reference path="./libraries/p5.d.ts" />
 
 function setup() {
   createCanvas(400, 400);
