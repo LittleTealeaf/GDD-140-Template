@@ -1,4 +1,4 @@
-# GDD-140-Template
+# GDD-140 <!-- ADD EXERCISE/PROJECT TITLE HERE-->
 
 <!-- Github-Pages status goes here -->
 
