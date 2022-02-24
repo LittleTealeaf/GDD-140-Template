@@ -1,4 +1,5 @@
-# GDD-140 <!-- ADD EXERCISE/PROJECT TITLE HERE-->
+# <!-- PROJECT TITLE -->
+## GDD-140 <!-- Assignment Title -->
 
 <!-- Github-Pages status goes here -->
 
