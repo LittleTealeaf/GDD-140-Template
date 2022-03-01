@@ -1,2 +1,3 @@
 #!/bin/env sh
-# Setup script that should run to create any temporary files needed
+
+# This is a simple setup script that can be used to make any executions before shipping a build to be published
