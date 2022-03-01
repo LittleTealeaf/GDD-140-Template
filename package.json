@@ -1,0 +1,22 @@
+{
+  "name": "gdd-140-template",
+  "version": "1.0.0",
+  "description": "Template Directory for GDD-140",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleTealeaf/GDD-140-Template.git"
+  },
+  "author": "Thomas Kwashnak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleTealeaf/GDD-140-Template/issues"
+  },
+  "homepage": "https://github.com/LittleTealeaf/GDD-140-Template#readme",
+  "dependencies": {
+    "p5": "^1.4.1"
+  }
+}
