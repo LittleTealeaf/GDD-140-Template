@@ -18,5 +18,8 @@
   "homepage": "https://github.com/LittleTealeaf/GDD-140-Template#readme",
   "dependencies": {
     "p5": "^1.4.1"
+  },
+  "devDependencies": {
+    "@types/p5": "^1.4.1"
   }
 }
