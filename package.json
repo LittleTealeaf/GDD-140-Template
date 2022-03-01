@@ -2,7 +2,7 @@
   "name": "gdd-140-template",
   "version": "1.0.0",
   "description": "Template Directory for GDD-140",
-  "main": "index.js",
+  "main": "sketch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
