@@ -1,9 +1,9 @@
-/// <reference path="./libraries/p5.global-mode.d.ts" />
+/// <reference path="./node_modules/@types/p5/global.d.ts" />
 
 function setup() {
-  createCanvas(400, 400);
+    createCanvas(600,600);
 }
 
 function draw() {
-  background(220);
+    background(220);
 }
