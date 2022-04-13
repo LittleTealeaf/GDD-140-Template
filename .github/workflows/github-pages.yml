@@ -14,8 +14,6 @@ jobs:
         cache: 'npm'
     - name: Install Dependencies
       run: npm install
-    # - name: Remove Gitignore
-    #   run: rm ./.gitignore
     - name: Publish to Github Pages
       if: github.ref == 'refs/heads/main'
       uses: peaceiris/actions-gh-pages@v3
